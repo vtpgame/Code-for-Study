@@ -1,2 +1,1 @@
-# test
-// what the fuck is this ?
+# Code for study
